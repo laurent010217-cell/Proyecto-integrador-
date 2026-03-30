@@ -21,7 +21,7 @@ Momia → Enemigo
 
 Tecnologías:
 Java
-Programación Orientada a Objetos
+Programación Concurrente
 
 
 Ejecución:
